@@ -1,0 +1,154 @@
+[
+  {
+    "category": "Hours",
+    "id": "timings",
+    "keys": [
+      "timing",
+      "timings",
+      "time",
+      "open",
+      "close",
+      "closed",
+      "hours",
+      "sunday",
+      "when",
+      "schedule"
+    ],
+    "source": "Clinic — verified",
+    "text": "Refine Aesthetics is open Monday to Saturday, 3:00 PM to 10:00 PM. The clinic is closed on Sundays.",
+    "title": "Clinic timings"
+  },
+  {
+    "category": "Location",
+    "id": "branches",
+    "keys": [
+      "branch",
+      "branches",
+      "location",
+      "address",
+      "where",
+      "clifton",
+      "johar",
+      "gulistan",
+      "karachi",
+      "directions"
+    ],
+    "source": "Clinic — verified",
+    "text": "Refine Aesthetics has two branches in Karachi: Clifton and Gulistan-e-Johar. Patients can choose either branch when booking.",
+    "title": "Branches"
+  },
+  {
+    "category": "Services",
+    "id": "services",
+    "keys": [
+      "service",
+      "services",
+      "offer",
+      "treatment",
+      "treatments",
+      "facial",
+      "skin",
+      "skincare",
+      "dental",
+      "teeth",
+      "aesthetics",
+      "consultation",
+      "doctor",
+      "areesha"
+    ],
+    "source": "Clinic — verified",
+    "text": "Refine Aesthetics offers three services: aesthetics consultation, skincare consultation, and dental enquiry. The clinic is led by Dr. Areesha, its founder.",
+    "title": "Services"
+  },
+  {
+    "category": "Booking",
+    "id": "booking",
+    "keys": [
+      "book",
+      "booking",
+      "appointment",
+      "reserve",
+      "slot",
+      "date",
+      "available",
+      "availability",
+      "visit"
+    ],
+    "source": "Clinic — verified",
+    "text": "To book: first pick a date, the assistant checks doctor availability for that date, then you choose a branch and a time slot, and share your name and phone number. The request stays pending until clinic staff approve it, then you receive a confirmation.",
+    "title": "How booking works"
+  },
+  {
+    "category": "Contact",
+    "id": "contact",
+    "keys": [
+      "contact",
+      "phone",
+      "number",
+      "call",
+      "instagram",
+      "reach",
+      "whatsapp"
+    ],
+    "source": "Clinic — verified",
+    "text": "You can reach Refine Aesthetics on 0334 3151514, or on Instagram at @refineaestheticsbydrareeseha.",
+    "title": "Contact"
+  },
+  {
+    "category": "Fees",
+    "id": "price",
+    "keys": [
+      "price",
+      "prices",
+      "cost",
+      "fee",
+      "fees",
+      "charge",
+      "charges",
+      "discount",
+      "cheap",
+      "rate",
+      "rates",
+      "package"
+    ],
+    "source": "Clinic — policy",
+    "text": "Consultation fees are not published yet and are marked to be confirmed by the clinic. The assistant never invents a price or a discount. For exact fees, staff will call you back.",
+    "title": "Prices"
+  },
+  {
+    "category": "Safety",
+    "id": "emergency",
+    "keys": [
+      "emergency",
+      "pain",
+      "bleeding",
+      "swelling",
+      "urgent",
+      "severe",
+      "hurt",
+      "accident"
+    ],
+    "source": "Clinic — policy",
+    "text": "For emergencies such as severe pain, swelling, or bleeding, the assistant does not continue the chat. It asks the patient to call the clinic directly on 0334 3151514 or visit the nearest emergency, and flags the chat for staff immediately.",
+    "title": "Emergency rule"
+  },
+  {
+    "category": "Policy",
+    "id": "handover",
+    "keys": [
+      "human",
+      "person",
+      "staff",
+      "agent",
+      "talk",
+      "someone",
+      "real",
+      "complaint",
+      "negotiate",
+      "bargain"
+    ],
+    "source": "Clinic — policy",
+    "text": "If a patient asks for a human, complains, or starts negotiating on price, the assistant stops, tags the chat for staff, and a team member takes over with the full chat history.",
+    "title": "Human handover"
+  }
+]
