@@ -1,1 +1,15 @@
-{"description":"Refine Aesthetics by Dr. Areesha — landing page + AI chatbot demo (static site, demo only). Bookings are saved in the browser, no backend yet.","engines":{"node":">=18"},"name":"refine-aesthetics-landing","private":true,"scripts":{"deploy":"npx vercel --prod","dev":"python3 -m http.server 8000","preview":"npx serve .","start":"npx serve ."},"version":"1.0.0"}
+{
+  "description": "Clinic landing page + AI chatbot demo (static site, demo only). Bookings are saved in the browser, no backend yet.",
+  "engines": {
+    "node": ">=18"
+  },
+  "name": "clinic-landing-chatbot-demo",
+  "private": true,
+  "scripts": {
+    "deploy": "npx vercel --prod",
+    "dev": "python3 -m http.server 8000",
+    "preview": "npx serve .",
+    "start": "npx serve ."
+  },
+  "version": "1.0.0"
+}

@@ -14,8 +14,8 @@
       "when",
       "schedule"
     ],
-    "source": "Clinic — verified",
-    "text": "Refine Aesthetics is open Monday to Saturday, 3:00 PM to 10:00 PM. The clinic is closed on Sundays.",
+    "source": "Demo",
+    "text": "Demo Clinic is open Monday to Saturday, 3:00 PM to 10:00 PM. The clinic is closed on Sundays.",
     "title": "Clinic timings"
   },
   {
@@ -27,14 +27,10 @@
       "location",
       "address",
       "where",
-      "clifton",
-      "johar",
-      "gulistan",
-      "karachi",
       "directions"
     ],
-    "source": "Clinic — verified",
-    "text": "Refine Aesthetics has two branches in Karachi: Clifton and Gulistan-e-Johar. Patients can choose either branch when booking.",
+    "source": "Demo",
+    "text": "Demo Clinic has two branches in Demo City: Branch 1 and Branch 2. Patients can choose either branch when booking.",
     "title": "Branches"
   },
   {
@@ -53,11 +49,10 @@
       "teeth",
       "aesthetics",
       "consultation",
-      "doctor",
-      "areesha"
+      "doctor"
     ],
-    "source": "Clinic — verified",
-    "text": "Refine Aesthetics offers three services: aesthetics consultation, skincare consultation, and dental enquiry. The clinic is led by Dr. Areesha, its founder.",
+    "source": "Demo",
+    "text": "Demo Clinic offers three services: aesthetics consultation, skincare consultation, and dental enquiry. The clinic is led by Demo Doctor, its founder.",
     "title": "Services"
   },
   {
@@ -74,7 +69,7 @@
       "availability",
       "visit"
     ],
-    "source": "Clinic — verified",
+    "source": "Demo",
     "text": "To book: first pick a date, the assistant checks doctor availability for that date, then you choose a branch and a time slot, and share your name and phone number. The request stays pending until clinic staff approve it, then you receive a confirmation.",
     "title": "How booking works"
   },
@@ -90,8 +85,8 @@
       "reach",
       "whatsapp"
     ],
-    "source": "Clinic — verified",
-    "text": "You can reach Refine Aesthetics on 0334 3151514, or on Instagram at @refineaestheticsbydrareeseha.",
+    "source": "Demo",
+    "text": "You can reach Demo Clinic on [clinic phone], or on Instagram at [clinic Instagram].",
     "title": "Contact"
   },
   {
@@ -111,7 +106,7 @@
       "rates",
       "package"
     ],
-    "source": "Clinic — policy",
+    "source": "Demo",
     "text": "Consultation fees are not published yet and are marked to be confirmed by the clinic. The assistant never invents a price or a discount. For exact fees, staff will call you back.",
     "title": "Prices"
   },
@@ -128,8 +123,8 @@
       "hurt",
       "accident"
     ],
-    "source": "Clinic — policy",
-    "text": "For emergencies such as severe pain, swelling, or bleeding, the assistant does not continue the chat. It asks the patient to call the clinic directly on 0334 3151514 or visit the nearest emergency, and flags the chat for staff immediately.",
+    "source": "Demo",
+    "text": "For emergencies such as severe pain, swelling, or bleeding, the assistant does not continue the chat. It asks the patient to call the clinic directly on [clinic phone] or visit the nearest emergency, and flags the chat for staff immediately.",
     "title": "Emergency rule"
   },
   {
@@ -147,7 +142,7 @@
       "negotiate",
       "bargain"
     ],
-    "source": "Clinic — policy",
+    "source": "Demo",
     "text": "If a patient asks for a human, complains, or starts negotiating on price, the assistant stops, tags the chat for staff, and a team member takes over with the full chat history.",
     "title": "Human handover"
   }

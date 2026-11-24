@@ -25,4 +25,4 @@ Publish nothing until the owner says yes.
 ## 5. Handover
 - Clinic owns: domain, Vercel/hosting account, Instagram, lead log, knowledge base.
 - Hand over: admin logins, how to approve bookings, how to block slots, how to update prices.
-- Monthly care (optional): updates, new FAQs, monthly report. Price [TBC] — proposed Rs 10,000/month.
+- Monthly care (optional): updates, new FAQs, monthly report. Price [TBC].

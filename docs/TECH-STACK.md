@@ -1,4 +1,4 @@
-# Tech stack — Refine Aesthetics landing + chatbot demo
+# Tech stack — Demo Clinic landing + chatbot demo
 
 ## Current stack (what is in this zip)
 
@@ -28,7 +28,7 @@
 - Booking: staff set weekly hours + block slots in the dashboard; chatbot reads the same slots, so nothing double-books.
 - Alerts: WhatsApp / SMS / email to reception on every new booking request.
 - WhatsApp phase: Meta WhatsApp Business API via ManyChat or a direct API integration; clinic pays Meta + platform directly. Instagram DM via ManyChat, same knowledge base.
-- Hosting: Vercel Pro (~$20/month) + domain (~Rs 3,429/year for .com).
+- Hosting: Vercel static hosting (live link in README).
 
 ## How to change things
 
